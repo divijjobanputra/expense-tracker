@@ -11,7 +11,7 @@ Java, Spring Boot, Spring Data JPA, MySQL, HTML, JavaScript
 
 ## Run Backend
 1. Create DB:
-    - expense_tracker_dbMy
+    - expense_tracker_db
 2. Update `application.properties` with SQL username/password
 3. Run Spring Boot app
 
